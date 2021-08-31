@@ -1,5 +1,6 @@
 # Image-Browser
 Image browser like google image search has developed by React.js & Semantic UI
-https://user-images.githubusercontent.com/75374424/131552735-8dfb70c2-f92f-4e4d-8bdf-f53a2a759c21.png
+![Screenshot (48)](https://user-images.githubusercontent.com/75374424/131553650-0100d751-d62e-43e6-8f32-c60a27dc21a5.png)
+
 
 
